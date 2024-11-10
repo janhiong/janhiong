@@ -1,4 +1,4 @@
-# Hi, I'm Janhi
+# Hi, I'm Janhi 🙋🏻‍♀️
 
 Data Analyst with expertise in query optimization, data analysis, data visualization and data modelling.
 
@@ -8,12 +8,12 @@ Data analysis and reporting using Google Sheets and Excel.
 Developing dashboards on Tableau and Power BI.
 Build and train data models using Python.
 
-## 📚 My Education and Experiences
+## 📚 Education and Experiences
 
 - 🎓 Data Science @ Drexel University
-- 🎡 Data Science Analyst Intern @Chase Cost Management (July - December 2024)
-- 🎡 Data Analyst Intern @FPT Software Corporation (May - July 2024)
-- 🎡 Data Analyst Intern @US Fish and Wildlife Service (February - August 2024)
+- 📊 Data Science Analyst Intern @Chase Cost Management (July - December 2024)
+- 📊 Data Analyst Intern @FPT Software Corporation (May - July 2024)
+- 📊 Data Analyst Intern @US Fish and Wildlife Service (February - August 2024)
 - 💪 Leadership Mentor @Garthwait Leadership Center (January 2022 - May 2024)
 
 ### Languages:
@@ -50,10 +50,10 @@ Build and train data models using Python.
 ![Hadoop](https://img.shields.io/badge/-Hadoop-66CCFF?style=flat&logo=apache-hadoop&logoColor=white)
 
 ## 🎉 Projects
-Welcome to my portfolio, where I showcase my [link to projects] projects.
+Welcome to my portfolio, where I showcase my projects.
 
 ## 📞 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/janhiong/)
-- [Personal Portfolio](https://yourpersonalwebsite.com)
+- [Personal Portfolio]([https://yourpersonalwebsite.com](https://www.notion.so/I-m-Janhi-Ong-a-Data-Storyteller-13a72acfda6e8015b934d80df0e8a691))
 - [Email: janhiong04@gmail.com](mailto:janhiong04@gmail.com)
