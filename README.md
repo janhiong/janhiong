@@ -1,4 +1,4 @@
-# Hi, I'm Janhi, a Data Storyteller 👋
+# Hi, I'm Janhi 👋
 
 Data Analyst with expertise in query optimization, data analysis, data visualization and data modelling.
 
