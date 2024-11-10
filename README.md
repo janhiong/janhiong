@@ -55,5 +55,5 @@ Welcome to my portfolio, where I showcase my projects.
 ## 📞 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/janhiong/)
-- [Personal Portfolio]([https://yourpersonalwebsite.com](https://www.notion.so/I-m-Janhi-Ong-a-Data-Storyteller-13a72acfda6e8015b934d80df0e8a691))
+- [Personal Portfolio](https://www.notion.so/I-m-Janhi-Ong-a-Data-Storyteller-13a72acfda6e8015b934d80df0e8a691)
 - [Email: janhiong04@gmail.com](mailto:janhiong04@gmail.com)
