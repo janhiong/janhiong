@@ -10,7 +10,7 @@ Data Analyst with expertise in query optimization, data analysis, data visualiza
 
 ## 📚 Education and Experiences
 
-- 🎓 Data Science @ Drexel University
+- 🎓 Data Science @ Drexel University | GPA: 3.98/4.00
 - 📊 Data Science Analyst Intern @Chase Cost Management (July - December 2024)
 - 📊 Data Analyst Intern @FPT Software Corporation (May - July 2024)
 - 📊 Data Analyst Intern @US Fish and Wildlife Service (February - August 2024)
