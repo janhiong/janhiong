@@ -16,12 +16,11 @@ Data Analyst with expertise in query optimization, data analysis, data visualiza
 - 📊 Data Analyst Intern @US Fish and Wildlife Service (February - August 2024)
 - 💪 Leadership Mentor @Garthwait Leadership Center (January 2022 - May 2024)
   
-  ## 🎉 Projects
+## 🎉 Projects
 
 Welcome to my data portfolio! Here, I document a summary of my [projects](https://github.com/Janhi2004/Projects/blob/main/README.md) in various fields.
 
-  ## 💻 Technicall Skills
-
+## 💻 Technicall Skills
 
 ### Languages:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
