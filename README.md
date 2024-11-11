@@ -52,6 +52,7 @@ Data Analyst with expertise in query optimization, data analysis, data visualiza
 ## 🎉 Projects
 
 Welcome to my data portfolio! Here, I document a summary of my projects in various fields.
+
 ---
 
 ## 📞 Connect with Me
