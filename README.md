@@ -15,6 +15,10 @@ Data Analyst with expertise in query optimization, data analysis, data visualiza
 - 📊 Data Analyst Intern @FPT Software Corporation (May - July 2024)
 - 📊 Data Analyst Intern @US Fish and Wildlife Service (February - August 2024)
 - 💪 Leadership Mentor @Garthwait Leadership Center (January 2022 - May 2024)
+  
+  ## 🎉 Projects
+
+Welcome to my data portfolio! Here, I document a summary of my [projects](https://github.com/Janhi2004/Projects/blob/main/README.md) in various fields.
 
 ### Languages:
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -48,10 +52,6 @@ Data Analyst with expertise in query optimization, data analysis, data visualiza
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira-software&logoColor=white)
 ![Hadoop](https://img.shields.io/badge/-Hadoop-66CCFF?style=flat&logo=apache-hadoop&logoColor=white)
-
-## 🎉 Projects
-
-Welcome to my data portfolio! Here, I document a summary of my [projects](https://github.com/Janhi2004/Projects/blob/main/README.md) in various fields.
 
 ---
 
