@@ -52,38 +52,6 @@ Data Analyst with expertise in query optimization, data analysis, data visualiza
 ## 🎉 Projects
 
 Welcome to my data portfolio! Here, I document a summary of my projects in various fields.
-
-## ✨ Table of Contents
-- [SQL](#sql)
-- [Python](#python)
-- [Tableau](#tableau)
-- [A/B Testing](#guides)
-- [Machine Learning](#guides)
-
----
-
-## ♻️ SQL
-
-| Project Link | Area of Analysis | Project Description |
-|--------------|------------------|----------------------|
-| [SQL Project](#) | Topic of Analysis | Short summary of the analysis performed and its outcomes. |
-
----
-
-## 🛠️ Python
-
-| Project Link | Purpose | Project Description |
-|--------------|---------|----------------------|
-| [Python Script](#) | Tool/Automation/Data Analysis | Describe the script's purpose and what it accomplishes. |
-
----
-
-## 🌟 Tableau
-
-| Project Link | Dashboard Topic | Project Description |
-|--------------|------------------|----------------------|
-| [Tableau Dashboard](#) | Visualization Topic | Highlight the data visualization topic and the insights it offers. |
-
 ---
 
 ## 📞 Connect with Me
