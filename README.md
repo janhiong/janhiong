@@ -50,7 +50,57 @@ Data Analyst with expertise in query optimization, data analysis, data visualiza
 ![Hadoop](https://img.shields.io/badge/-Hadoop-66CCFF?style=flat&logo=apache-hadoop&logoColor=white)
 
 ## 🎉 Projects
-Welcome to my portfolio, where I showcase my [projects.](https://github.com/Janhi2004/Projects/blob/main/README.md)
+
+Welcome to my data portfolio! Here, I document a summary of my projects in various fields.
+
+## ✨ Table of Contents
+- [SQL](#sql)
+- [Python](#python)
+- [Tableau](#tableau)
+- [A/B Testing](#guides)
+- [Machine Learning](#guides)
+
+---
+
+## 🚀 Data Engineering
+
+| Project Link | Completion Date | Tools | Project Description |
+|--------------|-----------------|-------|----------------------|
+| [Project Name](#) | Month Year | Tool 1, Tool 2, Tool 3 | Briefly describe your project, focusing on its purpose and key technologies used. |
+| [Another Project](#) | Month Year | Tool 1, Tool 2 | Summarize this project, highlighting any unique challenges or results. |
+
+---
+
+## ♻️ SQL
+
+| Project Link | Area of Analysis | Project Description |
+|--------------|------------------|----------------------|
+| [SQL Project](#) | Topic of Analysis | Short summary of the analysis performed and its outcomes. |
+
+---
+
+## 🛠️ Python
+
+| Project Link | Purpose | Project Description |
+|--------------|---------|----------------------|
+| [Python Script](#) | Tool/Automation/Data Analysis | Describe the script's purpose and what it accomplishes. |
+
+---
+
+## 🌟 Tableau
+
+| Project Link | Dashboard Topic | Project Description |
+|--------------|------------------|----------------------|
+| [Tableau Dashboard](#) | Visualization Topic | Highlight the data visualization topic and the insights it offers. |
+
+---
+
+## ✍️ Guides
+
+| Guide Link | Topic | Description |
+|------------|-------|-------------|
+| [Guide Title](#) | Subject | Brief overview of what the guide covers and its intended audience. |
+
 
 ## 📞 Connect with Me
 
