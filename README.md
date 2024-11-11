@@ -2,11 +2,11 @@
 
 Data Analyst with expertise in query optimization, data analysis, data visualization and data modelling.
 
-Querying data using SQL.
-Exploratory Data Analysis and Data Cleaning using SQL and Python.
-Data analysis and reporting using Google Sheets and Excel.
-Developing dashboards on Tableau and Power BI.
-Build and train data models using Python.
+- Querying data using SQL.
+- Exploratory Data Analysis and Data Cleaning using SQL and Python.
+- Data analysis and reporting using Google Sheets and Excel.
+- Developing dashboards on Tableau and Power BI.
+- Build and train data models using Python.
 
 ## 📚 Education and Experiences
 
