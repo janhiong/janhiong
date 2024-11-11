@@ -50,7 +50,7 @@ Data Analyst with expertise in query optimization, data analysis, data visualiza
 ![Hadoop](https://img.shields.io/badge/-Hadoop-66CCFF?style=flat&logo=apache-hadoop&logoColor=white)
 
 ## 🎉 Projects
-Welcome to my portfolio, where I showcase my projects.
+Welcome to my portfolio, where I showcase my[projects.](https://github.com/Janhi2004/Projects/blob/main/README.md)
 
 ## 📞 Connect with Me
 
