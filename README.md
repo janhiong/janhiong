@@ -23,7 +23,7 @@ Welcome to my data portfolio! Here, I document a summary of my [projects](https:
 
 | Project Link | Dashboard Topic | Project Description |
 |--------------|------------------|----------------------|
-| [📱 Social Media and Suicide Rate](https://github.com/Janhi2004/Social-Media-and-Suicide-Rate) | EDA using Pandas, Numpy, Seaborn, Matplotlib Data Modeling using SciKit Learn | The project investigates the relationship between social media growth (specifically Twitter and Facebook) and changes in suicide rates from 2010 to 2019. By leveraging machine learning models and visualization tools, this analysis aims to predict suicide rate trends and understand which factors are most influential. |
+| [📱 Social Media and Suicide Rate](https://github.com/Janhi2004/Social-Media-and-Suicide-Rate) | EDA using Pandas, Numpy, Seaborn, Matplotlib; Data Modeling using SciKit Learn | The project investigates the relationship between social media growth (specifically Twitter and Facebook) and changes in suicide rates from 2010 to 2019. By leveraging machine learning models and visualization tools, this analysis aims to predict suicide rate trends and understand which factors are most influential. |
 
 ## 💻 Tools
 
