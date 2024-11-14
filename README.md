@@ -2,7 +2,7 @@
 
 👀 I'm a student studying Data Science with a minor in Computer Science at Drexel University. After my second year as a Economics Student at the Gettysburg College, I decided to change my major to Data Science and move to Philadelphia.
 
-🌱 In my spare time I like to cook.
+🌱 In my spare time I like volunteering and cooking.
 
 ## 📚 I’m currently working ...
 
