@@ -6,7 +6,7 @@
 
 ## 📚 I’m currently working ...
 
-- 📊 Data Science Analyst Intern @Chase Cost Management (July - December 2024)
+- Data Science Analyst Intern @Chase Cost Management (July - December 2024)
 
 ## 💞️ In the past I've worked at ...
 
