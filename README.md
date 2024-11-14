@@ -1,21 +1,22 @@
 # 🙋🏻‍♀️ Hi there, I'm Janhi [she/hers/her]
------------------------------------
 
-Data Analyst with expertise in query optimization, data analysis, data visualization and data modelling.
+👀 I'm a student studying Data Science with a minor in Computer Science at Drexel University. After my second year as a Economics Student at the Gettysburg College, I decided to change my major to Data Science and move to Philadelphia.
 
-- Querying data using SQL.
-- Exploratory Data Analysis and Data Cleaning using SQL and Python.
-- Data analysis and reporting using Google Sheets and Excel.
-- Developing dashboards on Tableau and Power BI.
-- Build and train data models using Scikir-Learn, TensorFlow in Python.
+🌱 In my spare time I like to cook.
 
-## 📚 Education and Experiences
+## 📚 I’m currently working ...
 
-- 🎓 Data Science @ Drexel University | GPA: 3.98/4.00
 - 📊 Data Science Analyst Intern @Chase Cost Management (July - December 2024)
-- 📊 Data Analyst Intern @FPT Software Corporation (May - July 2024)
-- 📊 Data Analyst Intern @US Fish and Wildlife Service (February - August 2024)
-- 💪 Leadership Mentor @Garthwait Leadership Center (January 2022 - May 2024)
+
+## 💞️ In the past I've worked at ...
+
+- Data Analyst Intern @FPT Software Corporation (May - July 2024)
+- Data Analyst Intern @Gettysburg College (February - August 2024)
+- Leadership Mentor @Garthwait Leadership Center (January 2022 - May 2024) 
+- Calculus Tutor @Gettysburg College (February - August 2024)
+- Student Assistant @Gettysburg College (August 2022 - May 2024)
+- Social Media & Photographer @Vietnamese Association Club (August 2022 - May 2024)
+
   
 ## 🎉 Projects
 
