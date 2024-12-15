@@ -4,12 +4,8 @@
 
 🌱 In my spare time I like volunteering and cooking.
 
-## 📚 I’m currently working ...
-
-- Data Analyst Intern @Chase Cost Management (July - December 2024)
-
 ## 💞️ In the past I've worked at ...
-
+- Data Analyst Intern @Chase Cost Management (July - December 2024)
 - Data Analyst Intern @FPT Software Corporation (May - July 2024)
 - Data Analyst Intern @Gettysburg College (February - August 2024)
 - Leadership Mentor @Garthwait Leadership Center (January 2022 - May 2024) 
