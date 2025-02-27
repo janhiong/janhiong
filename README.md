@@ -1,11 +1,11 @@
 ## 🙋🏻‍♀️ Hi there, I'm Janhi [she/hers/her]
 
-👀 I'm a student studying Data Science at Drexel University. After my second year as a Economics student at the Gettysburg College, I decided to change my major to Computer Science and move to Philadelphia.
+👀 I'm a student studying Data Science at Drexel University. After my second year as a Economics student at the Gettysburg College, I decided to change my major to Computer Science and move to Philadelphia. Currently, I'm working as Undergraduate Research Assistant with Professor Shadi at Drexel University and Data Analyst Intern at Panasonic.
 
 🌱 In my spare time I like volunteering and cooking.
 
 ## 💞️ In the past I've worked at ...
-- Data ScienceAnalyst Intern @Chase Cost Management (July - December 2024)
+- Data Science Analyst Intern @Chase Cost Management (July - December 2024)
 - Data Science Analyst Intern @FPT Software Corporation (May - July 2024)
 - Data Analyst Intern @Gettysburg College (February - August 2024)
 - Leadership Mentor @Garthwait Leadership Center (January 2022 - May 2024) 
