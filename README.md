@@ -24,45 +24,52 @@ Welcome to my data portfolio! Here, I document a summary of my [projects](https:
 |--------------|------------------|----------------------|
 | [📱 Social Media and Suicide Rate](https://github.com/Janhi2004/Social-Media-and-Suicide-Rate) | EDA using Pandas, Numpy, Seaborn, Matplotlib; Data Modeling using SciKit Learn | The project investigates the relationship between social media growth (specifically Twitter and Facebook) and changes in suicide rates from 2010 to 2019. By leveraging machine learning models and visualization tools, this analysis aims to predict suicide rate trends and understand which factors are most influential. |
 
-## 💻 Tools
+## 💻 Tech Stack
 
-### Languages:
+### 🧑🏻‍💻 Programming Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat&logo=swift&logoColor=white)
 
-### Libraries and Frameworks:
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-3776AB?style=flat&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![SciKit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Tidyverse](https://img.shields.io/badge/-Tidyverse-1A162D?style=flat&logo=r&logoColor=white)
-![ggplot2](https://img.shields.io/badge/-ggplot2-1A162D?style=flat&logo=r&logoColor=white)
-![dplyr](https://img.shields.io/badge/-dplyr-1A162D?style=flat&logo=r&logoColor=white)
-
-### Databases:
+### 🧰 Technologies & Tools
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![BigQuery](https://img.shields.io/badge/-BigQuery-4285F4?style=flat&logo=google-cloud&logoColor=white)
-![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
+![NoSQL](https://img.shields.io/badge/-NoSQL-00ACC1?style=flat)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 
-### Tools:
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black)
-![Excel](https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-![Qlik](https://img.shields.io/badge/-Qlik-7CB342?style=flat&logo=qlik&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira-software&logoColor=white)
-![Hadoop](https://img.shields.io/badge/-Hadoop-66CCFF?style=flat&logo=apache-hadoop&logoColor=white)
+### 🌐 Web Technologies
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Vite.js](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
+![React.js](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
 ---
 
-## 📞 Connect with Me
+## 📞 Let’s Connect!
 
-- [LinkedIn](https://www.linkedin.com/in/janhiong/)
-- [Personal Portfolio](https://www.notion.so/I-m-Janhi-Ong-a-Data-Storyteller-13a72acfda6e8015b934d80df0e8a691)
-- [Email: janhiong04@gmail.com](mailto:janhiong04@gmail.com)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/janhiong/)
+- 📬 [Email Me](mailto:janhiong04@gmail.com)
+- 🧭 [Personal Portfolio](https://www.notion.so/I-m-Janhi-Ong-a-Data-Storyteller-13a72acfda6e8015b934d80df0e8a691)
+
+---
+
+Thanks for visiting! 🚀 Let’s build something amazing together!
