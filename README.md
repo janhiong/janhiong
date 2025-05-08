@@ -1,12 +1,13 @@
 ## 🙋🏻‍♀️ Hi there, I'm Janhi [she/hers/her]
 
-👀 I'm a student studying Data Science at Drexel University. After my second year as a Economics student at the Gettysburg College, I decided to change my major to Computer Science and move to Philadelphia. Currently, I'm working as Undergraduate Research Assistant with Professor Shadi at Drexel University and Data Analyst Intern at Panasonic.
+👀 I’m a passionate Software Engineer who thrives on building scalable, user-centered applications that contribute to your company. With hands-on experience in full-stack development, cloud platforms, and agile workflows, I’ve made impactful contributions at Panasonic, FPT Software and Chase Cost Management.
 
 🌱 In my spare time I like volunteering and cooking.
 
 ## 💞️ In the past I've worked at ...
+- Software Engineer Intern @Finbud AI (February - May 2025)
 - Data Science Analyst Intern @Chase Cost Management (July - December 2024)
-- Data Science Analyst Intern @FPT Software Corporation (May - July 2024)
+- Software Engineer Intern @FPT Software Corporation (May - July 2024)
 - Data Analyst Intern @Gettysburg College (February - August 2024)
 - Leadership Mentor @Garthwait Leadership Center (January 2022 - May 2024) 
 - Calculus Tutor @Gettysburg College (February - August 2024)
