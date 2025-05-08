@@ -2,7 +2,11 @@
 
 👀 I’m a passionate Software Engineer who thrives on building scalable, user-centered applications that contribute to your company. With hands-on experience in full-stack development, cloud platforms, and agile workflows, I’ve made impactful contributions at Panasonic, FPT Software and Chase Cost Management.
 
-🌱 In my spare time I like volunteering and cooking.
+🌱 Whether it's optimizing back-end performance, crafting intuitive front-end interfaces, or collaborating in cross-functional teams, I bring a strong foundation in both code and communication.
+
+🌱 I’m always seeking opportunities to grow, innovate, and make technology more accessible and impactful.
+
+🌱 Let’s connect if you’re building something exciting — or just want to geek out over clean code and system design!
 
 ## 💞️ In the past I've worked at ...
 - Software Engineer Intern @Finbud AI (February - May 2025)
