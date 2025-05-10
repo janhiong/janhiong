@@ -26,7 +26,7 @@ Welcome to my data portfolio! Here, I document a summary of my [projects](https:
 
 | Project Link | Dashboard Topic | Project Description |
 |--------------|------------------|----------------------|
-| [📱 RefNet](https://github.com/Janhi2004/RefNet) | React, MongoDB, NoSQL, Node.js, JavaScript, Vite.js, Figma | Developed a platform that scrapes internships posted within 24 hours and automatically emails opportunities to 100+ students daily.|
+| [📱 RefNet](https://github.com/janhiong/RefNet) | React, MongoDB, NoSQL, Node.js, JavaScript, Vite.js, Figma | Developed a platform that scrapes internships posted within 24 hours and automatically emails opportunities to 100+ students daily.|
 | [📱 summarAIze](https://github.com/chauta03/summarAIze) | React, Three.js, FastAPI, SQLAlchemy, PostgreSQL, Python | Built a live transcription web app with React and Three.js, integrating Google Meet, Microsoft Teams, and Zoom for real-time meeting summaries.|
 | [📱 Social Media and Suicide Rate](https://github.com/Janhi2004/Social-Media-and-Suicide-Rate) | EDA using Pandas, Numpy, Seaborn, Matplotlib; Data Modeling using SciKit Learn | The project investigates the relationship between social media growth (specifically Twitter and Facebook) and changes in suicide rates from 2010 to 2019. By leveraging machine learning models and visualization tools, this analysis aims to predict suicide rate trends and understand which factors are most influential. |
 
