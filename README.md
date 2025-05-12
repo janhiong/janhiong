@@ -74,7 +74,7 @@ Welcome to my data portfolio! Here, I document a summary of my [projects](https:
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/janhiong/)
 - 📬 [Email Me](mailto:janhiong04@gmail.com)
-- 🧭 [Personal Portfolio](https://www.notion.so/I-m-Janhi-Ong-a-Data-Storyteller-13a72acfda6e8015b934d80df0e8a691)
+- 🧭 [Personal Portfolio](https://janhiong.com/)
 
 ---
 
