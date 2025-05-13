@@ -21,7 +21,7 @@
   
 ## 🎉 Projects
 
-Welcome to my data portfolio! Here, I document a summary of my [projects](https://github.com/Janhi2004/Projects/blob/main/README.md) in various fields.
+Welcome to my portfolio! Here, I document a summary of my [projects](https://github.com/Janhi2004/Projects/blob/main/README.md) in various fields.
 ### 🌟 Favorite Projects
 
 | Project Link | Dashboard Topic | Project Description |
