@@ -28,7 +28,7 @@ Welcome to my portfolio! Here, I document a summary of my [projects](https://git
 |--------------|------------------|----------------------|
 | [📱 RefNet](https://github.com/janhiong/RefNet) | React, MongoDB, NoSQL, Node.js, JavaScript, Vite.js, Figma | Developed a platform that scrapes internships posted within 24 hours and automatically emails opportunities to 100+ students daily.|
 | [📱 S&P500](https://github.com/janhiong/sp500) | C++, OpenSSL, File I/O, SHA-256, AES-256, CSV Parsing | Built C++ console application simulating long-term SP500 investments with buying, holding, and selling actions by tracking historical stock market performance from Nasdaq market data|
-| [📱 Social Media and Suicide Rate](https://github.com/Janhi2004/Social-Media-and-Suicide-Rate) | EDA using Pandas, Numpy, Seaborn, Matplotlib; Data Modeling using SciKit Learn | The project investigates the relationship between social media growth (specifically Twitter and Facebook) and changes in suicide rates from 2010 to 2019. By leveraging machine learning models and visualization tools, this analysis aims to predict suicide rate trends and understand which factors are most influential. |
+| [📱 Predicting Loan Approval Using Machine Learning Techniques](https://github.com/janhiong/loan_approval) | EDA using Pandas, Numpy, Seaborn, Matplotlib; Data Modeling using SciKit Learn | This project uses machine learning techniques to predict loan approval decisions based on applicant financial and personal attributes, aiming to identify the most accurate and reliable model for classification. |
 
 ## 💻 Tech Stack
 
