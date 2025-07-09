@@ -1,16 +1,16 @@
-## Hi there, I'm Phuong (Janhi) [she/hers/her]
+## Hi there, I'm Janhi [she/hers/her]
 
-I’m a passionate Software Engineer who thrives on building scalable, user-centered applications that contribute to your company. With hands-on experience in full-stack development, cloud platforms, and agile workflows, I’ve made impactful contributions at Panasonic, KPMG and Chase Cost Management.
+Hi, I'm Janhi! 
 
-Whether it's optimizing back-end performance, crafting intuitive front-end interfaces, or collaborating in cross-functional teams, I bring a strong foundation in both code and communication.
+I’m a builder who believes clean code and thoughtful data go hand in hand. I love creating tools that solve real problems, whether it’s engineering backend systems or uncovering insights from data.
 
-I’m always seeking opportunities to grow, innovate, and make technology more accessible and impactful.
+Fun fact: I do my best coding outdoors. Growing up in the mountains gave me a deep love for nature, and I’ve found that a bit of fresh air helps me think clearer and code smarter. Sometimes, the best bug fixes happen under a tree.
 
-Let’s connect if you’re building something exciting — or just want to geek out over clean code and system design!
-
-## In the past I've worked at ...
-- Chase Cost Management (July - December 2024)
-- FPT Software Corporation (May - July 2024)
+## I have contributed to ..
+- NPL Lab - Drexel University (Sep 2024 - Present)
+- Panasonic North America (March 2025 - July 2025)
+- KPMG (May 2024 - August 2024)
+- Chase Cost Management (February 2024 - May 2024)
 
   
 ## Projects
