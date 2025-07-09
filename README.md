@@ -7,7 +7,7 @@ I’m a builder who believes clean code and thoughtful data go hand in hand. I l
 Fun fact: I do my best coding outdoors. Growing up in the mountains gave me a deep love for nature, and I’ve found that a bit of fresh air helps me think clearer and code smarter. Sometimes, the best bug fixes happen under a tree.
 
 ## I have contributed to ...
-- NPL Lab - Drexel University (Sep 2024 - Present)
+- Social NLP Lab, Drexel University (Sep 2024 - Present)
 - Panasonic North America (March 2025 - July 2025)
 - KPMG (May 2024 - August 2024)
 - Chase Cost Management (February 2024 - May 2024)
