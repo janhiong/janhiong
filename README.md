@@ -1,7 +1,5 @@
 ## Hi there, I'm Janhi [she/hers/her]
 
-Hi, I'm Janhi! 
-
 I’m a builder who believes clean code and thoughtful data go hand in hand. I love creating tools that solve real problems, whether it’s engineering backend systems or uncovering insights from data.
 
 Fun fact: I do my best coding outdoors. Growing up in the mountains gave me a deep love for nature, and I’ve found that a bit of fresh air helps me think clearer and code smarter. Sometimes, the best bug fixes happen under a tree.
