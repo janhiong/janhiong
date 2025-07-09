@@ -1,4 +1,4 @@
-## Hi there, I'm Janhi [she/hers/her]
+## Hi there, I'm Phuong (Janhi) [she/hers/her]
 
 I’m a passionate Software Engineer who thrives on building scalable, user-centered applications that contribute to your company. With hands-on experience in full-stack development, cloud platforms, and agile workflows, I’ve made impactful contributions at Panasonic, KPMG and Chase Cost Management.
 
