@@ -1,6 +1,6 @@
 ## 🙋🏻‍♀️ Hi there, I'm Janhi [she/hers/her]
 
-👀 I’m a passionate Software Engineer who thrives on building scalable, user-centered applications that contribute to your company. With hands-on experience in full-stack development, cloud platforms, and agile workflows, I’ve made impactful contributions at Panasonic, FPT Software and Chase Cost Management.
+👀 I’m a passionate Software Engineer who thrives on building scalable, user-centered applications that contribute to your company. With hands-on experience in full-stack development, cloud platforms, and agile workflows, I’ve made impactful contributions at Panasonic, KPMG and Chase Cost Management.
 
 🌱 Whether it's optimizing back-end performance, crafting intuitive front-end interfaces, or collaborating in cross-functional teams, I bring a strong foundation in both code and communication.
 
@@ -9,14 +9,8 @@
 🌱 Let’s connect if you’re building something exciting — or just want to geek out over clean code and system design!
 
 ## 💞️ In the past I've worked at ...
-- Software Engineer Intern @Finbud AI (February - May 2025)
-- Software Data Engineer Intern @Chase Cost Management (July - December 2024)
-- Software Engineer Intern @FPT Software Corporation (May - July 2024)
-- Data Analyst Intern @Gettysburg College (February - August 2024)
-- Leadership Mentor @Garthwait Leadership Center (January 2022 - May 2024) 
-- Calculus Tutor @Gettysburg College (February - August 2024)
-- Student Assistant @Gettysburg College (August 2022 - May 2024)
-- Social Media & Photographer @Vietnamese Association Club (August 2022 - May 2024)
+- Chase Cost Management (July - December 2024)
+- FPT Software Corporation (May - July 2024)
 
   
 ## 🎉 Projects
