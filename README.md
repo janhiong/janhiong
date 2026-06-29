@@ -1,4 +1,4 @@
-## Hi there, I'm Janhi [she/hers/her]
+## Hi there, I'm Jane [she/hers/her]
 
 I’m a builder who believes clean code and thoughtful data go hand in hand. I love creating tools that solve real problems, whether it’s engineering backend systems or uncovering insights from data.
 
